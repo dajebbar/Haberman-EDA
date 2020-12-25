@@ -17,3 +17,6 @@ Apply exploratory data analysis to haberman dataset
     - Survival status (class attribute)
       - 1 = the patient survived 5 years or longer
       - 2 = the patient died within 5 year
+
+## Objectif:
+<p>  - Classify new patients according to available categories.</p>
